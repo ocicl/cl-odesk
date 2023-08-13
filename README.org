@@ -2,9 +2,8 @@
 
 Common Lisp bindings for oDesk API
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/dym/cl-odesk.git   |
-| commit  | d408c55  |
-| systems | cl-odesk |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://github.com/dym/cl-odesk.git |
+| commit  | d408c55                                 |
+| systems | (odesk)                                 |
+|---------+-----------------------------------------|
